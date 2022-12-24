@@ -10,7 +10,10 @@ seo:
 
 # Welcome!
 This is the first-ever iteration of a DeCal designed to provide aspiring linguists with an easily accessible introduction to computing. The course is primarily lab-based and will also end with a group project. 
+
 We highly recommend students to have taken Linguistics 100 or equivalent. The course is also designed for students with no programming experience.
+
+We will meet on Tuesdays at 5:00-6:30pm in TBC.
 ## Staff
 Our faculty advisor is [Prof. Terry Regier](mailto:terry.regier@berkeley.edu).
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
