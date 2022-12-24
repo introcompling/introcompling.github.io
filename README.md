@@ -9,9 +9,7 @@ seo:
 ---
 
 # Welcome!
-This is the first-ever iteration of a DeCal designed to provide aspiring linguists with an easily accessible introduction to computing. The course is primarily lab-based and will also end with a group project. 
-
-We highly recommend students to have taken Linguistics 100 or equivalent. The course is designed for students with no programming experience.
+This is the first-ever iteration of a DeCal designed to provide aspiring linguists with an easily accessible introduction to computing. We highly recommend students to have taken Linguistics 100 or equivalent. The course is designed for students with no programming experience.
 
 We will meet on Tuesdays at 5:00-6:30pm in TBC.
 ## Staff
