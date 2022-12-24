@@ -1,7 +1,7 @@
 ---
 name: Zaid Maayah
 role: Instructor
-email: me@example.com
+email: zaidmaayah@berkeley.edu
 website: https://zaidmaayah.github.io
 photo: zm.jpg
 ---
