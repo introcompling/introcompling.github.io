@@ -16,6 +16,7 @@ We highly recommend students to have taken Linguistics 100 or equivalent. The co
 
 # Staff
 
+Our faculty advisor is [Prof. Terry Regier](mailto:terry.regier@berkeley.edu).
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
