@@ -1,5 +1,5 @@
 ---
-title: Introduction to Computation
+title: Week 1
 ---
 
 Jan. 31
