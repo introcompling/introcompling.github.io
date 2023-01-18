@@ -6,6 +6,8 @@ description: A listing of all the course staff members.
 
 # Staff
 
+Our faculty advisor is [Prof. Terry Regier](mailto:terry.regier@berkeley.edu).
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
