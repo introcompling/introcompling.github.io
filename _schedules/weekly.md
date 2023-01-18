@@ -25,10 +25,10 @@ timeline:
 schedule:
   - name: Monday
   - name: Tuesday
-    - events:
+    events:
       - name: Lecture
-        start: 5:00 AM
-        end: 6:30 PM
+        start: 9:30 AM
+        end: 10:30 AM
         location: 150 Wheeler
   - name: Wednesday
   - name: Thursday
