@@ -27,8 +27,8 @@ schedule:
   - name: Tuesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
+        start: 5:00 PM
+        end: 6:30 PM
         location: 150 Wheeler
   - name: Wednesday
   - name: Thursday
