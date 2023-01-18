@@ -25,7 +25,7 @@ timeline:
 schedule:
   - name: Monday
   - name: Tuesday
-  -    events:
+    - events:
       - name: Lecture
         start: 5:00 AM
         end: 6:30 PM
