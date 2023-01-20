@@ -17,7 +17,7 @@ We will meet on Tuesdays at 5:00-6:30pm in TBC.
 {{ module }}
 {% endfor %}
 ## Staff
-Our faculty advisor is [Prof. Terry Regier](mailto:terry.regier@berkeley.edu).
+Our faculty advisor is [Prof. Terry Regier](https://lclab.berkeley.edu/regier/).
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
