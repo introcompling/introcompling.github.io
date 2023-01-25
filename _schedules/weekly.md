@@ -29,7 +29,7 @@ schedule:
       - name: Lecture
         start: 5:00 PM
         end: 6:30 PM
-        location: 150 Wheeler
+        location: Latimer 105
   - name: Wednesday
   - name: Thursday
   - name: Friday
