@@ -12,12 +12,30 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+“Language and computation share deep roots.” 
+<br>
+Computational methods are increasingly more relevant within linguistics: modern research and industry careers require you to think as both a linguist and a programmer. The toolkit you have developed as a linguist is very applicable to computer science as well, but opaque jargon creates a high barrier of entry. In this course, we’ll break down computer science fundamentals into byte-sized chunks, mapping your linguistics knowledge to its computational counterpart. Thus, the course is split into two phases — introduction to computation, applications in linguistics — and a culminating final project. Each class will consist of a lecture and an in-class lab assignment allowing you to put lecture material into practice.
 
-## Lecture
+<b>Prerequisite:</b> LINGUIS 100: “Introduction to Linguistic Science” or equivalent 
+<br>
+This course is intended for students interested in linguistics with near-zero programming experience. As such, students who have a significant computational background may not find it fulfilling. We highly recommend those students to take LINGUIS 252 (Computational Linguistics) or LINGUIS 243 (Language, Computation, and Cognition) instead.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+<b>Through this class, you will:</b>
+<ul>
+<li>Understand the fundamentals of computation: functions, conditionals, loops, recursion, abstraction</li>
+<li>Map your linguistic skills to their computational counterparts to “think like a programmer”</li>
+<li>Apply computational methods to linguistics: text processing, data cleaning, Python scripting for phonetic analysis</li>
+</ul>
+and combine all those skills to complete a computational linguistics project of your choosing
 
+## Grading Breakdown
+
+<ul>
+Attendance - 10%
+Labs - 50%
+Project - 40%
+</ul>
+    
 ## Resources
 
 Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
