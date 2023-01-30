@@ -14,6 +14,7 @@ description: >-
 
 “Language and computation share deep roots.” 
 <br>
+<br>
 Computational methods are increasingly more relevant within linguistics: modern research and industry careers require you to think as both a linguist and a programmer. The toolkit you have developed as a linguist is very applicable to computer science as well, but opaque jargon creates a high barrier of entry. In this course, we’ll break down computer science fundamentals into byte-sized chunks, mapping your linguistics knowledge to its computational counterpart. Thus, the course is split into two phases — introduction to computation, applications in linguistics — and a culminating final project. Each class will consist of a lecture and an in-class lab assignment allowing you to put lecture material into practice.
 
 <b>Prerequisite:</b> LINGUIS 100: “Introduction to Linguistic Science” or equivalent 
