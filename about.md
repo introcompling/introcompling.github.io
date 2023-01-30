@@ -10,7 +10,7 @@ description: >-
 
 ---
 
-## About
+## Course Overview
 
 “Language and computation share deep roots.” 
 <br>
@@ -31,9 +31,9 @@ and combine all those skills to complete a computational linguistics project of 
 ## Grading Breakdown
 
 <ul>
-Attendance - 10%
-Labs - 50%
-Project - 40%
+<li>Attendance - 10%</li>
+<li>Labs - 50%</li>
+<li>Project - 40%</li>
 </ul>
     
 ## Resources
