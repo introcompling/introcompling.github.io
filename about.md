@@ -27,14 +27,14 @@ This course is intended for students interested in linguistics with near-zero pr
 <li>Map your linguistic skills to their computational counterparts to “think like a programmer”</li>
 <li>Apply computational methods to linguistics: text processing, data cleaning, Python scripting for phonetic analysis</li>
 </ul>
-and combine all those skills to complete a computational linguistics project of your choosing
+and combine all those skills to complete a computational linguistics project of your choosing.
 
 ## Grading Breakdown
 
 <ul>
-<li>Attendance - 10%</li>
-<li>Labs - 50%</li>
-<li>Project - 40%</li>
+<li>Attendance - 10%: Attendance is crucial in a feedback-driven lab-based course. Students are expected to attend class sessions regularly and on time, so we will not be allowing time-conflict enrollment. If you cannot be at class, you must let an instructor know beforehand.</li>
+<li>Labs - 50%: These labs are the core of the class, so you must complete every lab assignment. They are designed to be completed during the lab portion of each class. For more information, see the section below.</li>
+<li>Project - 40%: The Project is your chance to apply your skills to a linguistic problem you’re interested in. Throughout the semester, you’ll have checkpoints where course instructors will give you feedback on the scope and execution of your work. Preferably, we’d like you to work in groups of 2-3, but individual participation is also allowed. Once in a group and familiar with the landscape of linguistic problems computation can address, you can consult with instructors on your idea and narrow it down to something feasible.</li>
 </ul>
     
 ## Resources
