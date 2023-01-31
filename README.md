@@ -13,7 +13,7 @@ This is the first-ever iteration of a DeCal designed to provide aspiring linguis
 
 We will meet on Tuesdays at 5-6:30pm in [Latimer 105](https://goo.gl/maps/Pm1BaTQLF4zWsKRV9). 
 <br>
-We will also hold office hours on Fridays at 1-3pm in [the Linguistics Lounge (Dwinelle 1202)](https://goo.gl/maps/ijwJZkd7UjrLRtNU7).
+We will also hold hybrid office hours on Fridays at 1-3pm. You may attend in-person in [the Linguistics Lounge (Dwinelle 1202)](https://goo.gl/maps/ijwJZkd7UjrLRtNU7), or remotely through the class Discord.
 ## Calendar
 {% for module in site.modules %}
 {{ module }}
