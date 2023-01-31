@@ -31,5 +31,5 @@ schedule:
       - name: Office Hours
         start: 1:00 PM
         end: 3:00 PM
-        location: Dwinelle 1202
+        location: Dwinelle 1202 or Remote
 ---
